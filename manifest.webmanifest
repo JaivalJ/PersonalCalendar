@@ -1,0 +1,13 @@
+{
+  "name": "Personal Calendar",
+  "short_name": "Calendar",
+  "description": "A calendar with subjects, reminders, and Google / Canvas / Notion integrations.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#0d0d10",
+  "theme_color": "#5b5bf0",
+  "icons": [
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
